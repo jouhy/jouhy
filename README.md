@@ -23,7 +23,8 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center">  </div>  <br> 
+    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=&logoColor=white&link=https://www.linkedin.com/in/juhee-sung-2330101bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> </a>
+          </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
