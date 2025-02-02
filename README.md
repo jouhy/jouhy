@@ -20,9 +20,9 @@
 </div> 
 <br> <br> <br> <br> <br> 
 
-<img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouhy&layout=compact&title_color=4072a5&text_color=808080&show_icons=true&show_icons=true&theme=transparent"> </a>
-
 <div align= "left">
+<img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouhy&layout=compact&title_color=4072a5&text_color=808080&show_icons=true&show_icons=true&theme=transparent">
+
 <div style="text-align: center;">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏️ Code with... </h3>
     <div  align= "left"> 
@@ -41,7 +41,6 @@
           <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" >
           <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" >  
           </div>
-
 
 
 
