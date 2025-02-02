@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/badge/python%2C%20violet%2C%20auto%2C%20python%2C%20%233776AB
+<img src="https://img.shields.io/badge/python%2C%20violet%2C%20auto%2C%20python%2C%20%233776AB" />
 
 
 <!--
