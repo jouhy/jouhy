@@ -1,6 +1,5 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/python%2C%20violet%2C%20auto%2C%20python%2C%20%233776AB" />
-
+### Hi there 👋[
+<img src="https://img.shields.io/badge/python?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto" />
 
 <!--
 **jouhy/jouhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
