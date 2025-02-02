@@ -1,23 +1,28 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d8bd2,100:030303&height=230&text=juhi's%20GitHub&animation=&fontColor=dcdcdc&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4072a5,100:727272&height=230&text=juhi's%20GitHub&animation=&fontColor=ffa500&fontSize=40" />
           </div>  <br> <br> 
-          
-<img align= "right" src="https://github-readme-stats.vercel.app/api?username=jouhy&bg_color=180,c6d8e6,00000000&title_color=000000&text_color=000000"
+
+<div align= "center">          
+    <img align= "right" src="https://github-readme-stats.vercel.app/api?username=jouhy&title_color=4072a5&text_color=808080&show_icons=true&theme=transparent&hide=stars,contribs"
          /> 
 
 <div align= "left"> 
-    <a href=https://www.linkedin.com/in/juhee-sung-2330101bb/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app> <img src="https://img.shields.io/badge/Linkedin-1877F2?style=flat-square&logo=&logoColor=white&link=https://www.linkedin.com/in/juhee-sung-2330101bb/"></a>
-    <a href=https://jouhy.github.io/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app> <img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=&logoColor=white&link=https://jouhy.github.io/"></a>
+    <a align="left" href=https://www.linkedin.com/in/juhee-sung-2330101bb/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app> <img src="https://img.shields.io/badge/Linkedin-1877F2?style=flat-square&logo=&logoColor=white&link=https://www.linkedin.com/in/juhee-sung-2330101bb/"></a>
+    <a href=https://jouhy.github.io/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app> <img src="https://img.shields.io/badge/blog-444444?style=flat-square&logo=&logoColor=white&link=https://jouhy.github.io/"></a>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjouhy&count_bg=%23727272&title_bg=%23727272&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=true"/></a>
     </div>
     
-<div align= "center">  </div> 
-    <div style="text-align: left;"> 
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Interest in... </h3>  
-    <div style="font-weight: 700; font-size: 8px; text-align: left; color: #282d33;"> Computer Vision · OnDevice AI · Reinforcement Learning </div> 
-    </div> <br> <br> <br> 
+<div align= "center">
+    <div style="text-align: center;"> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎃 Interest in... 🎃</h3>  
+    <div style="font-weight: 700; font-size: 8px; text-align: center; color: #727272;"> Computer Vision · OnDevice AI · Reinforcement Learning </div> 
+    </div>
+</div> 
+<br> <br> <br> <br> <br> 
 
-<img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouhy&layout=compact&bg_color=180,c6d8e6,00000000&title_color=000000&text_color=000000"> </a>
+<img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouhy&layout=compact&title_color=4072a5&text_color=808080&show_icons=true&show_icons=true&theme=transparent"> </a>
 
+<div align= "left">
 <div style="text-align: center;">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏️ Code with... </h3>
     <div  align= "left"> 
