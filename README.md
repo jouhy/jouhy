@@ -1,6 +1,10 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d8bd2,100:030303&height=230&text=juhi's%20GitHub&animation=&fontColor=dcdcdc&fontSize=40" />
     </div>
+    <div align= "center"> <a href=https://www.linkedin.com/in/juhee-sung-2330101bb/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app> <img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=&logoColor=white&link=https://www.linkedin.com/in/juhee-sung-2330101bb/"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Interest in... </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Computer Vision, OnDevice AI, Energy Efficient AI, Reinforcement Learning </div> 
@@ -20,12 +24,6 @@
           <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" >  
           <img src="https://img.shields.io/badge/delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white" >
           </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.linkedin.com/in/juhee-sung-2330101bb/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app> <img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=&logoColor=white&link=https://www.linkedin.com/in/juhee-sung-2330101bb/"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jouhy&bg_color=180,c6d8e6,00000000&title_color=000000&text_color=000000"
