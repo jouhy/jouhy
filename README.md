@@ -18,7 +18,7 @@
     <div style="font-weight: 700; font-size: 8px; text-align: center; color: #727272;"> Computer Vision · OnDevice AI · Reinforcement Learning </div> 
     </div>
 </div> 
-<br> <br>
+<br> <br> <br>
 
 <div align= "left">
 <img align= "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouhy&layout=compact&title_color=4072a5&text_color=808080&show_icons=true&show_icons=true&theme=transparent">
