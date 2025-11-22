@@ -10,7 +10,6 @@
     <a align="left" href=https://jouhy.github.io/about/> <img src="https://img.shields.io/badge/CV-868e96?style=flat-square&logo=&logoColor=white&link=https://jouhy.github.io/about/"></a>
     <a align="left" href=https://www.linkedin.com/in/juhee-sung-2330101bb/> <img src="https://img.shields.io/badge/Linkedin-1877F2?style=flat-square&logo=&logoColor=white&link=https://www.linkedin.com/in/juhee-sung-2330101bb/"></a>
     <a href=https://jouhy.github.io/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app> <img src="https://img.shields.io/badge/blog-444444?style=flat-square&logo=&logoColor=white&link=https://jouhy.github.io/"></a>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjouhy&count_bg=%23727272&title_bg=%23727272&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=true"/></a>
     </div>
     
 <div align= "center">
