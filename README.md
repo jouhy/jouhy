@@ -19,7 +19,7 @@
 ---
 
     
-<img align= "right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ethda11" alt="solved.ac badge" width="35%"/> 
+<img align= "right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ethda11" alt="solved.ac badge" width="45%"/> 
          
 <div style="text-align: center;">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏️ Code with... </h3>
