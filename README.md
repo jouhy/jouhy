@@ -11,16 +11,13 @@
 <div align= "center">
     <div style="text-align: center;"> 
         <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎃 Interest in... 🎃</h3>  
-        <div style="font-weight: 700; font-size: 8px; text-align: center; color: #727272;"> Computer Vision · OnDevice AI · AI Compiler </div> 
+        <div style="font-weight: 700; font-size: 8px; text-align: center; color: #727272;"> OnDevice AI </div> 
     </div>
 </div> 
 <br> 
 
 ---
 
-    
-<img align= "right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ethda11" alt="solved.ac badge" width="45%"/> 
-         
 <div style="text-align: center;">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏️ Code with... </h3>
     <div  align= "left"> 
@@ -28,7 +25,11 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-        <img src="https://img.shields.io/badge/delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+    <br>
+    <span style="font-weight: bold; margin-right: 10px;">Android&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+        <img src="https://img.shields.io/badge/Android%20NDK-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     <br>
     <span style="font-weight: bold; margin-right: 10px;">AI · Data&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
@@ -38,12 +39,9 @@
         <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" >
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     <br>
-    <span style="font-weight: bold; margin-right: 10px;">Database&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
-    <br>
     <span style="font-weight: bold; margin-right: 10px;">Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
     <br>
